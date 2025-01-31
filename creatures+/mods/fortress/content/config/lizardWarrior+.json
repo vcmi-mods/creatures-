@@ -1,0 +1,18 @@
+{
+	"core:lizardWarrior" : 
+               {
+			"abilities" :
+		          {
+			"poison" :
+			{
+				"type" : "SPELL_AFTER_ATTACK",
+				"subtype" : "spell.poison",
+				"val" : 15
+			},
+			"rangedRetaliation"	:
+			{
+				"type" : "RANGED_RETALIATION"
+			}
+                         
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"core:imp" :
+	{
+		"abilities" :
+		{
+			"misFortune" :
+			{
+				"type": "SPELLCASTER",
+				"subtype": "spell.misfortune",
+				"val" : 1,
+				"addInfo" : 100
+				 },
+				 
+			"castsCount" :
+			{
+				"type" : "CASTS",
+				"val" : 1
+			}
+	}
+}
+}

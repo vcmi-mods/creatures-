@@ -1,0 +1,14 @@
+{
+	"core:lizardman" : 
+               {
+			"abilities" :
+		          {
+			"poison" :
+			{
+				"type" : "SPELL_AFTER_ATTACK",
+				"subtype" : "spell.poison",
+				"val" : 10
+			}
+                         
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"core:dendroidSoldier" : 
+               {
+			"abilities" :
+		          {
+			"nature" : 
+			{
+				"type" : "HP_REGENERATION",
+				"val" : 20
+			}         
+	}
+}

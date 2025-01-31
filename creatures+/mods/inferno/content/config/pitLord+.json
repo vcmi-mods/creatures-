@@ -1,0 +1,12 @@
+{
+	"core:pitLord" : 
+               {
+			"abilities" :
+		          {
+			"long" : 
+			{
+				"type" : "THREE_HEADED_ATTACK"
+			}
+                         
+	}
+}

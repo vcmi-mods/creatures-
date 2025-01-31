@@ -1,0 +1,15 @@
+{
+	"core:battleDwarf" : 
+               {
+			"abilities" :
+		          {
+			"defenceBooster" :
+			{
+				"type" : "ENCHANTED",
+				"subtype" : "spell.defender",
+				"val" : 3,
+				"addInfo" : 100
+			}
+                         
+	}
+}

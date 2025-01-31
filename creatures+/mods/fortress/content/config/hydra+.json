@@ -1,0 +1,13 @@
+{
+	"core:hydra" : 
+               {
+			"abilities" :
+		          {
+			"regenerate" : 
+			{
+				"type" : "HP_REGENERATION",
+				"val" : 50
+			}
+                         
+	}
+}

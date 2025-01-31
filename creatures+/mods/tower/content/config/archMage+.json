@@ -1,0 +1,18 @@
+{
+	"core:archMage" : 
+               {
+			"abilities" :
+		          {
+			"casts" :{ "type" : "CASTS", "val" : 1},
+			"castsStoneSkin" :{	"type" :	"ENCHANTER",	"subtype" :	"spell.stoneSkin",	"val" :	3,	"addInfo" :	3},
+			"castsCure" :{		"type" :	"ENCHANTER",	"subtype" :	"spell.cure",		"val" :	3,	"addInfo" :	3},
+			"castsBloodlust" :{	"type" :	"ENCHANTER",	"subtype" :	"spell.bloodlust",	"val" :	3,	"addInfo" :	3},
+			"castsWeakness" :{	"type" :	"ENCHANTER",	"subtype" :	"spell.weakness",	"val" :	3,	"addInfo" :	3}
+            }
+			// Stone Skin 25.0%
+			// Cure	25.0%
+			// Bloodlust  25.0%
+			// Weakness 25.0%
+                         
+	}
+}

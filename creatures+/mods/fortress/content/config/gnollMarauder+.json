@@ -1,0 +1,12 @@
+{
+	"core:gnollMarauder" : 
+               {
+			"abilities" :
+		          {
+			"firstStrike" :
+			{
+				"type" : "FIRST_STRIKE"
+			}
+                         
+	}
+}

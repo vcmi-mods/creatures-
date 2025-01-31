@@ -1,0 +1,18 @@
+{
+	"name" : "Creatures+",
+	"description" : "Adding abilities for units",
+	"author" : "LampaLic",
+	"contact" : "",
+	"version" : "0.2",
+	"modType" : "Mechanics",
+	"compatibility":
+	{
+		"min" : "1.4.0"
+	},
+	"changelog" :
+    {
+	 "0.2" : [ "New abilities for Tower, Fortress and Necropolic creatures." ]
+         "0.1" : [ "Beta" ]
+    },
+	}
+}

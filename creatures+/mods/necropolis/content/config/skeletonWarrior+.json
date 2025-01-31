@@ -1,0 +1,13 @@
+{
+	"core:skeletonWarrior" : 
+               {
+			"abilities" :
+		          {
+			"defenseStance" :
+			{
+				"type" : "DEFENSIVE_STANCE",
+				"val": 2
+			}
+                         
+	}
+}

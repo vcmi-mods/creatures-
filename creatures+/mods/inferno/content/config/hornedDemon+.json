@@ -1,0 +1,17 @@
+{
+	"core:hornedDemon" : 
+               {
+			"abilities" :
+		          {
+			"sharpHorn" : 
+			{ 
+				"type" : "ENEMY_DEFENCE_REDUCTION",
+				"val" : 20
+			},
+                        "goldHandcuffs" : {
+				"type" : "ENEMY_ATTACK_REDUCTION",
+				"val" : 20
+			}
+                         
+	}
+}

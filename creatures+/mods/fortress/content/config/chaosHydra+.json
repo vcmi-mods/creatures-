@@ -1,0 +1,13 @@
+{
+	"core:chaosHydra" : 
+               {
+			"abilities" :
+		          {
+			"regenerate" : 
+			{
+				"type" : "HP_REGENERATION",
+				"val" : 200
+			}
+                         
+	}
+}

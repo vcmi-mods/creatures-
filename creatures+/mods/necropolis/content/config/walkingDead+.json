@@ -1,0 +1,19 @@
+{
+	"core:walkingDead" : 
+               {
+			"abilities" :
+		          {
+			"Virus" :
+			{
+				"type" : "SPELLCASTER",
+				"subtype" : "spell.virus",
+				"val" : 1
+			},
+			"castsCount" :
+			{
+				"type" : "CASTS",
+				"val" : 1
+			}
+                         
+	}
+}

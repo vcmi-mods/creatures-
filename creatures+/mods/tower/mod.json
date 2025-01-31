@@ -1,0 +1,19 @@
+{
+	"name" : "Tower+",
+	"description" : "Small changs for Tower units",
+	"author" : "LampaLic",
+	"contact" : "",
+	"version" : "1.0",
+	"modType" : "Mechanics",	
+
+	"creatures" :
+	[
+		"config/masterGremlin+.json",
+		"config/archMage+.json",
+		"config/nagaQueen+.json",
+	],
+	"spells" :
+	[
+        "config/repair.json",
+	],
+}

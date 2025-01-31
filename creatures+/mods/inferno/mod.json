@@ -1,0 +1,21 @@
+{
+	"name" : "Inferno+",
+	"description" : "Small changes for Inferno units",
+	"author" : "LampaLic",
+	"contact" : "",
+	"version" : "1.0",
+	"modType" : "Mechanics",	
+
+	"creatures" :
+	[
+		"config/imp+.json",
+                "config/familiar+.json",
+                "config/demon+.json",
+                "config/hornedDemon+.json",
+                "config/pitFiend+.json",
+                "config/pitLord+.json",
+	],
+	"spells" :
+	[
+	],
+}

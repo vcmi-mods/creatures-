@@ -1,0 +1,49 @@
+{
+	"epidemic" : {
+		"type": "ability",
+		"targetType" : "CREATURE",
+		"name": "Epidemic",
+		"school" : {},
+		"level": 2,
+		"power": 30,
+		"defaultGainChance": 0,
+		"gainChance": {},
+		"animation":{
+			"affect":["CSGRCK"]
+		},
+		"sounds": {
+			"cast": "DISEASE"
+		},
+		"levels" : {
+			"base": {
+				"description" : "",
+				"aiValue" : 0,
+				"power" : 30,
+				"cost" : 1,
+				"targetModifier":{"smart":false},
+				"range" : "0",
+				"battleEffects":{
+					"DeadSummon":{
+						"id":"zombieLord",
+						"permanent":true,
+						"type":"core:demonSummon"
+					}
+				}
+			},
+			"none" :{},
+			"basic" :{},
+			"advanced" :{},
+			"expert" :{}
+		},
+		"flags" : {
+			"rising": true,
+			"nonMagical":true,
+			"positive": true
+		},
+		"targetCondition" : {
+			"noneOf" : {
+				"bonus.SIEGE_WEAPON" : "absolute"
+			}
+		}
+	}
+}

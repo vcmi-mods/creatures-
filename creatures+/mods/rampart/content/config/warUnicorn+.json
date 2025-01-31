@@ -1,0 +1,14 @@
+{
+	"core:warUnicorn" : 
+               {
+			"abilities" :
+		          {
+			    "raisesLuck" :
+			{
+				"type" : "LUCK",
+				"val" : 1,
+				"propagator" : "HERO",
+				"stacking" : "Unicorns"
+			}    
+	}
+}

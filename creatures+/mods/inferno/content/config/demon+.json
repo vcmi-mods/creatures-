@@ -1,0 +1,13 @@
+{
+	"core:demon" : 
+               {
+			"abilities" :
+		          {
+			"sharpHorn" : 
+			{ 
+				"type" : "ENEMY_DEFENCE_REDUCTION",
+				"val" : 20
+			}
+                         
+	}
+}

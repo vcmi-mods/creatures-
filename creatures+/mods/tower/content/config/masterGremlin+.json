@@ -1,0 +1,29 @@
+{
+	"core:masterGremlin" : 
+               {
+			"abilities" :
+		          {
+			"repair" :
+			{
+				"type" : "SPELLCASTER",
+				"subtype" : "spell.repair",
+				"val" : 2
+			},
+			"castLength" :
+			{
+				"type" : "SPECIFIC_SPELL_POWER",
+				"subtype" : "spell.repair",
+				"val" : 20
+			},
+			"spellpoints" :
+			{
+				"type" : "CASTS",
+				"val" : 1
+			},
+                        "noMeleePenalty" :
+			{
+				"type" : "NO_MELEE_PENALTY"
+            }
+                         
+	}
+}

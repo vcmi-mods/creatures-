@@ -1,0 +1,20 @@
+{
+	"name" : "Necropolic+",
+	"description" : "Small changs for Necropolis units",
+	"author" : "LampaLic",
+	"contact" : "",
+	"version" : "1.0",
+	"modType" : "Mechanics",	
+
+	"creatures" :
+	[
+		"config/skeletonWarrior+.json",
+                "config/walkingDead+.json",
+                "config/zombieLord+.json"
+	],
+	"spells" :
+	[
+        "config/virus.json",
+        "config/epidemic.json",
+	],
+}

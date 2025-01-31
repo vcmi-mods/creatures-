@@ -1,0 +1,61 @@
+{
+	"defender" : {
+		"type" : "ability",
+		"targetType" :"CREATURE",
+		"name" : "Defender",
+		"school" : {
+			"air" : false,
+			"earth" : false,
+			"fire" : false,
+			"water" : false
+		},
+		"level" : 1,
+		"power" : 10,
+		"defaultGainChance" : 0,
+		"gainChance" : {
+			"rampart" : 0
+		},
+		"animation" : {},
+		"flags" : {"positive" : true},
+		"graphics" : {
+			"iconBook" : "",
+			"iconScroll" : "",
+			"iconScenarioBonus" : "",
+			"iconEffect" : "sprites/defender.bmp"
+		},
+		"sounds" : {
+			"cast" :""
+		},
+		"levels" : {
+			"base" : {
+				"power" : 10,
+				"aiValue" : 20,
+				"range" : "0",
+				"targetModifier" : {
+					"smart" : true
+				},
+				"description" : "{Defender}\r\n\r\nIncreases defence by 2 with every turn.",
+				"cost" : 0,
+				"battleEffects" : {
+					"rageEffect" : {
+						"type" : "core:timed",
+						"cumulative" : true,
+						"bonus" : {
+							"plusDefence" : {
+								"type" : "PRIMARY_SKILL",
+								"duration" : "PERMANENT",
+								"val" : 2,
+								"subtype" : "primarySkill.defence",
+								"valueType" : "ADDITIVE_VALUE"
+							}
+						}
+					}
+				}
+			},
+			"none" : {},
+			"basic" : {},
+			"advanced" : {},
+			"expert" : {}
+		}
+	}
+}

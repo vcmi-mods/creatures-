@@ -1,0 +1,19 @@
+{
+	"core:zombieLord" : 
+               {
+			"abilities" :
+		          {
+			"Virus" :
+			{
+				"type" : "SPELLCASTER",
+				"subtype" : "spell.epidemic",
+				"val" : 1
+			},
+			"castsCount" :
+			{
+				"type" : "CASTS",
+				"val" : 1
+			}
+                         
+	}
+}
