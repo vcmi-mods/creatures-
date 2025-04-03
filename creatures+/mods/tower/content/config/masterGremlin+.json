@@ -13,7 +13,7 @@
 			{
 				"type" : "SPECIFIC_SPELL_POWER",
 				"subtype" : "spell.repair",
-				"val" : 20
+				"val" : 10
 			},
 			"spellpoints" :
 			{

@@ -3,6 +3,12 @@
                {
 			"abilities" :
 		          {
+    "summons40HP" : 
+			{
+				"type" : "SPECIFIC_SPELL_POWER",
+				"subtype" : "spell.epidemic",
+				"val" : 40
+			},
 			"Virus" :
 			{
 				"type" : "SPELLCASTER",

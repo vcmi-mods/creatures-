@@ -15,7 +15,10 @@
 			{
 				"type" : "CASTS",
 				"val" : 2
-			}
+			},
+   "fly": {
+        "type": "FLYING"
+      }
 	}
 }
 }

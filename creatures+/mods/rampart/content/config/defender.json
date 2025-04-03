@@ -34,7 +34,7 @@
 				"targetModifier" : {
 					"smart" : true
 				},
-				"description" : "{Defender}\r\n\r\nIncreases defence by 2 with every turn.",
+				"description" : "{Defender}\r\n\r\nIncreases defence by 1 with every turn.",
 				"cost" : 0,
 				"battleEffects" : {
 					"rageEffect" : {
@@ -44,7 +44,7 @@
 							"plusDefence" : {
 								"type" : "PRIMARY_SKILL",
 								"duration" : "PERMANENT",
-								"val" : 2,
+								"val" : 1,
 								"subtype" : "primarySkill.defence",
 								"valueType" : "ADDITIVE_VALUE"
 							}

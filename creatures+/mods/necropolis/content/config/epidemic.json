@@ -5,7 +5,7 @@
 		"name": "Epidemic",
 		"school" : {},
 		"level": 2,
-		"power": 30,
+		"power": 50,
 		"defaultGainChance": 0,
 		"gainChance": {},
 		"animation":{
@@ -18,7 +18,7 @@
 			"base": {
 				"description" : "",
 				"aiValue" : 0,
-				"power" : 30,
+				"power" : 40,
 				"cost" : 1,
 				"targetModifier":{"smart":false},
 				"range" : "0",

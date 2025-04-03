@@ -3,11 +3,9 @@
                {
 			"abilities" :
 		          {
-			"defenseStance" :
+			"justing" :
 			{
-				"type" : "DEFENSIVE_STANCE",
-				"val": 2
-			}
-                         
+				"type" : "JOUSTING",
+				"val" : 2
 	}
 }

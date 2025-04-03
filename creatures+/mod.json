@@ -3,7 +3,7 @@
 	"description" : "Adding abilities for units",
 	"author" : "LampaLic",
 	"contact" : "",
-	"version" : "0.2",
+	"version" : "0.3",
 	"modType" : "Mechanics",
 	"compatibility":
 	{
@@ -11,6 +11,7 @@
 	},
 	"changelog" :
     {
+  "0.3" : [ "Fix Zombie Lord and Walking dead ability, removed ability pit lord and pit fiend, nerf battle dwarfs ability, captain centaurus get ability to josting instead of defender stack." ]
 	 "0.2" : [ "New abilities for Tower, Fortress and Necropolic creatures." ]
          "0.1" : [ "Beta" ]
     },

@@ -1,0 +1,12 @@
+{
+	"core:magog" : 
+               {
+			"abilities" :
+		          {
+          "fireShield" :
+			{
+				"type" : "FIRE_SHIELD",
+				"val" : 30
+			},               
+	}
+}

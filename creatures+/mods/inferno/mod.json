@@ -11,9 +11,7 @@
 		"config/imp+.json",
                 "config/familiar+.json",
                 "config/demon+.json",
-                "config/hornedDemon+.json",
-                "config/pitFiend+.json",
-                "config/pitLord+.json",
+                "config/hornedDemon+.json"
 	],
 	"spells" :
 	[
